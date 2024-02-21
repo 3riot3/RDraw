@@ -4,7 +4,7 @@
 
 **Features:**
 
-**Automated Drawing ✅: Watch in amazement as AutoGarticBot effortlessly creates intricate drawings, adding a unique flair to your Gartic Phone sessions.**
+**Automated Drawing ✅: Watch in amazement as RDraw effortlessly creates intricate drawings, adding a unique flair to your Gartic Phone sessions.**
 
 **Enhanced Experience ✅: Enjoy your business while the bot does all the hard work for you.**
 
